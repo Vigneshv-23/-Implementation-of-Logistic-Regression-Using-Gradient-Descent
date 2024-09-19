@@ -99,7 +99,8 @@ y_prednew
 ```
 
 ## Output:
-![alt text](<Screenshot 2024-09-13 090722.png>)
+![image](https://github.com/user-attachments/assets/35c34389-3b8f-4730-9ad8-52efa9aed48a)
+
 
 
 ## Result:
